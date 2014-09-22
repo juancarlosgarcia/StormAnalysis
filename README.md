@@ -1,15 +1,4 @@
----
-title       : Storm Analysis
-subtitle    : A Shiny App to view the impact of the Weather on the health of the population and the economy
-author      : 
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
----
-
+#StormAnalysis
 ## The app
 - User can select a type of report
   - Fatalities, this is a report on the total number of fatal accidents
